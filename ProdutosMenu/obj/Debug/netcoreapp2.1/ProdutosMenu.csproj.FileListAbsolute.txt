@@ -1,0 +1,11 @@
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.csprojAssemblyReference.cache
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.AssemblyInfoInputs.cache
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.AssemblyInfo.cs
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\bin\Debug\netcoreapp2.1\ProdutosMenu.deps.json
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\bin\Debug\netcoreapp2.1\ProdutosMenu.runtimeconfig.json
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\bin\Debug\netcoreapp2.1\ProdutosMenu.runtimeconfig.dev.json
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\bin\Debug\netcoreapp2.1\ProdutosMenu.dll
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\bin\Debug\netcoreapp2.1\ProdutosMenu.pdb
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.dll
+C:\Users\Aluno\source\repos\ProdutosMenu\ProdutosMenu\obj\Debug\netcoreapp2.1\ProdutosMenu.pdb
