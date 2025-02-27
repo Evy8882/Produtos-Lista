@@ -97,6 +97,7 @@ namespace ProdutosMenu
         }
         static void Main(string[] args)
         {
+            float soma = 0;
             bool continuar = true;
             while (continuar)
             {
@@ -137,11 +138,13 @@ namespace ProdutosMenu
 
                         break;
                 }
+                soma += total;
                 Console.WriteLine($"Comprou o produto {nome} por R${total}");
                 Console.WriteLine("Deseja continuar?\n\t1 - Sim \n\t2 - Não");
                 if (Console.ReadLine() != "1")
                 {
                     continuar = false;
+                    Console.WriteLine($"O total de todos os produtos foi R${soma}");
                 }
             }
         }
